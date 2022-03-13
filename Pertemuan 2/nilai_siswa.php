@@ -108,8 +108,6 @@ switch ($grade) {
     <p class="text-center text-capitalize"> <?php echo 'Nilai UTS : ' .$nilai_uts; ?></p>
     <p class="text-center text-capitalize"> <?php echo 'Nilai UAS : ' .$nilai_uas;?> </p>
     <p class="text-center text-capitalize"> <?php echo 'Nilai Tugas Praktikum : ' .$nilai_tugas;?> </p>
-    <p class="text-center text-capitalize"> <?php echo 'Grade : ' .$grade;?> </p>
-    <p class="text-center text-capitalize"><?php echo 'predikat : ' .$predikat;?></p>
 </div>
 </main>
 
